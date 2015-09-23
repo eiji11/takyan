@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>boy1_character/boy1_half_hand.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 231}, {136, 228}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {136, 228}}</string>
+			<key>sourceSize</key>
+			<string>{136, 228}</string>
+		</dict>
+		<key>boy1_character/boy1_half_kick.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 1}, {152, 228}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {152, 228}}</string>
+			<key>sourceSize</key>
+			<string>{152, 228}</string>
+		</dict>
+		<key>boy1_character/boy1_hands.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 231}, {152, 228}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {152, 228}}</string>
+			<key>sourceSize</key>
+			<string>{152, 228}</string>
+		</dict>
+		<key>boy1_character/boy1_kick.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 1}, {152, 228}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {152, 228}}</string>
+			<key>sourceSize</key>
+			<string>{152, 228}</string>
+		</dict>
+		<key>boy1_character/boy1_move.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 231}, {152, 228}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {152, 228}}</string>
+			<key>sourceSize</key>
+			<string>{152, 228}</string>
+		</dict>
+		<key>boy1_character/boy1_steady.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {152, 228}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {152, 228}}</string>
+			<key>sourceSize</key>
+			<string>{152, 228}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>textureFileName</key>
+		<string>boy1_character.png</string>
+	</dict>
+</dict>
+</plist>

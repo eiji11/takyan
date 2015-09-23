@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<integer>1</integer>
+	</dict>
+	<key>spriteFrameFiles</key>
+	<array>
+		<string>boy2_character.plist</string>
+		<string>game.plist</string>
+		<string>main_menu.plist</string>
+		<string>ccbResources.plist</string>
+		<string>boy1_character.plist</string>
+		<string>single_player.plist</string>
+		<string>versus.plist</string>
+		<string>Logo.plist</string>
+		<string>buttons and dialog.plist</string>
+		<string>girl2_character.plist</string>
+		<string>place_select.plist</string>
+		<string>girl1_character.plist</string>
+		<string>assorted_ui.plist</string>
+	</array>
+</dict>
+</plist>

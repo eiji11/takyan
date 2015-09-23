@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>assorted_ui/1player.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 271}, {271, 83}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {271, 83}}</string>
+			<key>sourceSize</key>
+			<string>{271, 83}</string>
+		</dict>
+		<key>assorted_ui/battle_records.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{547, 271}, {271, 83}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {271, 83}}</string>
+			<key>sourceSize</key>
+			<string>{271, 83}</string>
+		</dict>
+		<key>assorted_ui/button.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{639, 1}, {272, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {272, 84}}</string>
+			<key>sourceSize</key>
+			<string>{272, 84}</string>
+		</dict>
+		<key>assorted_ui/exit.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{886, 459}, {140, 122}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {140, 122}}</string>
+			<key>sourceSize</key>
+			<string>{140, 122}</string>
+		</dict>
+		<key>assorted_ui/exit_game.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{639, 172}, {271, 83}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {271, 83}}</string>
+			<key>sourceSize</key>
+			<string>{271, 83}</string>
+		</dict>
+		<key>assorted_ui/lvl1_fire_fast_disabled.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{913, 1}, {117, 110}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 110}}</string>
+			<key>sourceSize</key>
+			<string>{117, 110}</string>
+		</dict>
+		<key>assorted_ui/lvl1_fire_fast_enabled.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{116, 356}, {117, 104}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 104}}</string>
+			<key>sourceSize</key>
+			<string>{117, 104}</string>
+		</dict>
+		<key>assorted_ui/lvl2_random_drop_disabled.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 601}, {114, 120}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {114, 120}}</string>
+			<key>sourceSize</key>
+			<string>{114, 120}</string>
+		</dict>
+		<key>assorted_ui/lvl2_random_drop_enabled.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 356}, {120, 113}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {120, 113}}</string>
+			<key>sourceSize</key>
+			<string>{120, 113}</string>
+		</dict>
+		<key>assorted_ui/lvl3_3x_disabled.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{886, 345}, {126, 112}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {126, 112}}</string>
+			<key>sourceSize</key>
+			<string>{126, 112}</string>
+		</dict>
+		<key>assorted_ui/lvl3_3x_enabled.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{912, 239}, {108, 104}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {108, 104}}</string>
+			<key>sourceSize</key>
+			<string>{108, 104}</string>
+		</dict>
+		<key>assorted_ui/pause.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{912, 120}, {117, 111}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 111}}</string>
+			<key>sourceSize</key>
+			<string>{117, 111}</string>
+		</dict>
+		<key>assorted_ui/pause_game.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {636, 268}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {636, 268}}</string>
+			<key>sourceSize</key>
+			<string>{636, 268}</string>
+		</dict>
+		<key>assorted_ui/play.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 478}, {117, 113}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {117, 113}}</string>
+			<key>sourceSize</key>
+			<string>{117, 113}</string>
+		</dict>
+		<key>assorted_ui/pop_up_base.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{632, 342}, {252, 238}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {252, 238}}</string>
+			<key>sourceSize</key>
+			<string>{252, 238}</string>
+		</dict>
+		<key>assorted_ui/practice.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{639, 87}, {271, 83}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {271, 83}}</string>
+			<key>sourceSize</key>
+			<string>{271, 83}</string>
+		</dict>
+		<key>assorted_ui/records.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{639, 257}, {271, 83}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {271, 83}}</string>
+			<key>sourceSize</key>
+			<string>{271, 83}</string>
+		</dict>
+		<key>assorted_ui/refresh.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{116, 475}, {104, 107}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 107}}</string>
+			<key>sourceSize</key>
+			<string>{104, 107}</string>
+		</dict>
+		<key>assorted_ui/versus.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{274, 271}, {271, 83}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {271, 83}}</string>
+			<key>sourceSize</key>
+			<string>{271, 83}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>assorted_ui.png</string>
+	</dict>
+</dict>
+</plist>
